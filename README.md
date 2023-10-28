@@ -10,6 +10,7 @@ The "DataCo Smart Supply Chain" dataset, available on Kaggle, is a comprehensive
 **Dashboard Structure**
 
 The project dashboard is organized into four main pages, each focusing on specific aspects of the analysis:
+
  **1. Sales and Profitability**
  
     Average Order Value :  The average monetary value of each order.
@@ -18,8 +19,7 @@ The project dashboard is organized into four main pages, each focusing on specif
     
     Profit by Products: Visualization of the profit contribution of different products.
 
-    ![image](https://github.com/rm-rimsha/Supply-Chain-Data-Analysis/assets/105241371/5d759610-3d0c-42a7-9d32-e790e4b7af1c)
-
+   
 
     
  **2. Supply Chain Operations**
